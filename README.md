@@ -1,17 +1,20 @@
-# airline_management_system
+# CST2335 Airline Management System
 
-CST2335 Airline Management System
+## Project Description
+A Flutter-based Airline Management System developed as part of the CST2335 course final group project at Algonquin College.
 
-## Getting Started
+## Team Project Sections
+- Customer List Page
+- Airplane List Page
+- Flights List Page
+- Reservation Page
 
-This project is a starting point for a Flutter application.
+## Technologies
+- Flutter
+- Dart
+- SQLite
+- Android Studio
+- GitHub
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developers
+CST2335 Final Group Project Team
